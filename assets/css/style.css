@@ -143,7 +143,7 @@ img.lazy-image.loaded {
 	position: absolute;
 	top: 0;
 	right: -30px;
-	background: #1990ce;
+	background: #9a45ff;
 	width: 10px;
 }
 #scrollbar1 .track {
@@ -256,7 +256,7 @@ li {
 	display: inline-block;
 	padding-left: 30px;
 	padding-right: 10px;
-	background-color: #1990ce;
+	background-color: #9a45ff;
 	color: #ffffff;
 	font-size: 16px;
 	line-height: 70px;
@@ -274,7 +274,7 @@ li {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background: #1990ce;
+	background: #9a45ff;
 	content: '';
 	border-radius: 40px;
 	transform: scaleX(0) rotateX(0deg);
@@ -306,7 +306,7 @@ li {
 	height: 50px;
 	border-radius: 50%;
 	font-size: 16px;
-	color: #1990ce;
+	color: #9a45ff;
 	-webkit-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
 	transition: all 0.2s linear;
@@ -315,7 +315,7 @@ li {
 	color: #ffffff;
 	margin-left: 25px;
 	transform: rotate(360deg);
-	background: #1990ce;
+	background: #9a45ff;
 }
 .btn-one:hover,
 .btn-one:focus {
@@ -428,7 +428,7 @@ li {
 	text-transform: capitalize;
 }
 .sec-title h2 span {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .sec-title h2.clrwhite {
 	color: #ffffff;
@@ -639,12 +639,12 @@ li {
 	transition: all 0.4s linear;
 }
 .accordion-box .accordion .accord-btn.active h4 {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .accordion-box
 	.accordion
 	.accord-btn.active:after {
-	color: #1990ce;
+	color: #9a45ff;
 	content: '\f107';
 }
 
@@ -925,7 +925,7 @@ li {
 	bottom: 20px;
 	width: 55px;
 	height: 55px;
-	background: #1990ce;
+	background: #9a45ff;
 	color: #ffffff;
 	border-radius: 5px;
 	font-size: 20px;
@@ -1227,7 +1227,7 @@ select:focus {
 }
 .social-links-style1 li a:hover i {
 	color: #ffffff;
-	background: #1990ce;
+	background: #9a45ff;
 }
 
 .sociallinks-style-two {
@@ -1527,7 +1527,7 @@ select:focus {
 	transition: all 500ms ease;
 }
 .mobile-menu .social-links li a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 /*==============================================
@@ -1678,7 +1678,7 @@ select:focus {
 	transition-delay: 0.1s;
 }
 .header-social-link ul li a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 .header-top-right .button-box {
@@ -1689,7 +1689,7 @@ select:focus {
 .header-top-right .button-box a {
 	position: relative;
 	display: inline-block;
-	background: #1990ce;
+	background: #9a45ff;
 	color: #ffffff;
 	font-size: 14px;
 	line-height: 45px;
@@ -1871,7 +1871,7 @@ select:focus {
 	content: '';
 	margin: 15px 0;
 	width: 0px;
-	background: #1990ce;
+	background: #9a45ff;
 	opacity: 0;
 	transition: all 500ms ease;
 	transition: all 200ms linear;
@@ -2029,7 +2029,7 @@ select:focus {
 	content: '';
 	margin: 15px 0;
 	width: 0px;
-	background: #1990ce;
+	background: #9a45ff;
 	transition: all 500ms ease;
 	transition: all 200ms linear;
 	transition-delay: 0.1s;
@@ -2105,7 +2105,7 @@ select:focus {
 	transition-delay: 0.1s;
 }
 .header-contact .title a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .header-contact .title p {
 	font-size: 14px;
@@ -2185,7 +2185,7 @@ select:focus {
 }
 
 .main-slider .content h3 {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 24px;
 	line-height: 34px;
 	font-weight: 700;
@@ -2237,7 +2237,7 @@ select:focus {
 	width: 140px;
 	height: 140px;
 	margin: 0 auto;
-	background: #1990ce;
+	background: #9a45ff;
 	border-radius: 50%;
 	display: flex;
 	flex-direction: column;
@@ -2308,7 +2308,7 @@ select:focus {
 	transition: all 300ms ease;
 }
 .main-slider .owl-theme .owl-nav .owl-prev:hover {
-	background: #1990ce;
+	background: #9a45ff;
 }
 .main-slider .owl-theme .owl-nav .owl-next {
 	position: absolute;
@@ -2335,7 +2335,7 @@ select:focus {
 	transition: all 300ms ease;
 }
 .main-slider .owl-theme .owl-nav .owl-next:hover {
-	background: #1990ce;
+	background: #9a45ff;
 }
 
 .banner-carousel .owl-dots {
@@ -2393,7 +2393,7 @@ select:focus {
 .main-slider.style2 .content .sub-title {
 	position: relative;
 	display: inline-block;
-	background: #1990ce;
+	background: #9a45ff;
 	padding: 11px 20px;
 	border-radius: 6px;
 	color: #ffffff;
@@ -2446,7 +2446,7 @@ select:focus {
 	left: -120px;
 	bottom: 40px;
 	width: 15px;
-	background: #1990ce;
+	background: #9a45ff;
 	content: '';
 	border-radius: 10px;
 }
@@ -2506,7 +2506,7 @@ select:focus {
 	border-radius: 50%;
 }
 .welcome-image-box .experience-box h2 {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 54px;
 	line-height: 50px;
 	font-weight: 400;
@@ -2559,7 +2559,7 @@ select:focus {
 	bottom: 0;
 	content: '\e920';
 	font-family: 'icomoon';
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 20px;
 }
 
@@ -2611,7 +2611,7 @@ select:focus {
 	position: relative;
 	display: block;
 	padding: 4px;
-	border: 2px solid #1990ce;
+	border: 2px solid #9a45ff;
 	border-radius: 50%;
 }
 .author-info-box1 .image-box .inner img {
@@ -2637,7 +2637,7 @@ select:focus {
 	padding: 6px 0 7px;
 }
 .patients-box i {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 67px;
 }
 .patients-box h2 {
@@ -2758,7 +2758,7 @@ select:focus {
 	position: relative;
 	width: 110px;
 	height: 110px;
-	background: #1990ce;
+	background: #9a45ff;
 	border-radius: 50%;
 	display: flex;
 	flex-direction: column;
@@ -2852,7 +2852,7 @@ select:focus {
 	height: 10px;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
-	background: #1990ce;
+	background: #9a45ff;
 	content: '';
 	transform: scaleY(0);
 	transform-origin: center;
@@ -2904,7 +2904,7 @@ select:focus {
 	bottom: 0;
 	width: 110px;
 	height: 110px;
-	background: #1990ce;
+	background: #9a45ff;
 	border-top-left-radius: 50px;
 	border-top-right-radius: 50px;
 	z-index: 1;
@@ -3000,7 +3000,7 @@ select:focus {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background: #1990ce70;
+	background: #9a45ff70;
 	content: '';
 	z-index: -1;
 }
@@ -3078,7 +3078,7 @@ select:focus {
 	right: 0;
 	width: 150px;
 	height: 150px;
-	background: #1990ce;
+	background: #9a45ff;
 	border-top-left-radius: 0px;
 	z-index: 1;
 }
@@ -3167,7 +3167,7 @@ select:focus {
 	left: 0;
 	right: 0;
 	height: 6px;
-	background: #1990ce;
+	background: #9a45ff;
 	content: '';
 	border-top-left-radius: 8px;
 	border-top-right-radius: 8px;
@@ -3272,7 +3272,7 @@ select:focus {
 	bottom: 0;
 	content: '\e920';
 	font-family: 'icomoon';
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 20px;
 }
 
@@ -3290,7 +3290,7 @@ select:focus {
 	width: 90px;
 }
 .happy-patients-box .icon i:before {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 65px;
 }
 .happy-patients-box .icon,
@@ -3512,7 +3512,7 @@ select:focus {
 	padding-top: 17px;
 }
 .single-testimonial-style1 .client-info-box h3 {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 18px;
 	line-height: 20px;
 	font-weight: 600;
@@ -3692,7 +3692,7 @@ select:focus {
 .any-question-box .icon span:before {
 	position: relative;
 	top: 8px;
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 65px;
 	line-height: 65px;
 }
@@ -3858,7 +3858,7 @@ select:focus {
 	height: 50px;
 	border-radius: 40px;
 	text-align: center;
-	background-color: #1990ce;
+	background-color: #9a45ff;
 	z-index: 1;
 }
 .single-blog-style1 .img-holder .date-box h5 {
@@ -3908,7 +3908,7 @@ select:focus {
 	.meta-info
 	li
 	a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .single-blog-style1
 	.text-holder
@@ -3937,7 +3937,7 @@ select:focus {
 	.text-holder
 	.blog-title
 	a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 .single-blog-style1 .text-holder .text {
@@ -3949,7 +3949,7 @@ select:focus {
 	margin: 0;
 }
 .single-blog-style1 .text-holder .text p span {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 .single-blog-style1 .text-holder .bottom-box {
@@ -3984,7 +3984,7 @@ select:focus {
 }
 .single-blog-style1.style1-instyle2 .big-text {
 	position: relative;
-	background: #1990ce;
+	background: #9a45ff;
 	min-height: 290px;
 	display: flex;
 	flex-direction: column;
@@ -4192,7 +4192,7 @@ select:focus {
 .subscribe-social-links ul li a:hover {
 	color: #ffffff;
 	border-color: #ffffff;
-	background: #1990ce;
+	background: #9a45ff;
 }
 
 .subscribe-area .right {
@@ -4260,7 +4260,7 @@ select:focus {
 }
 .subscribe-form button {
 	position: absolute;
-	background-color: #1990ce;
+	background-color: #9a45ff;
 	top: 5px;
 	right: 5px;
 	bottom: 5px;
@@ -4422,7 +4422,7 @@ select:focus {
 	font-family: 'Inter', sans-serif;
 }
 .single-footer-widget .link1 ul li a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 .footer-news-links {
@@ -4506,7 +4506,7 @@ select:focus {
 .footer-news-links .single-news .title-holder p {
 	position: relative;
 	top: -3px;
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 14px;
 	line-height: 16px;
 	font-weight: 500;
@@ -4531,7 +4531,7 @@ select:focus {
 	.title-holder
 	h5
 	a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 .single-footer-widget .footer-contact-info {
@@ -4616,7 +4616,7 @@ select:focus {
 	.text
 	p
 	a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 .footer-bottom {
@@ -4641,7 +4641,7 @@ select:focus {
 	margin: 0;
 }
 .copyright-text p a {
-	color: #1990ce;
+	color: #9a45ff;
 	font-weight: 700;
 	transition: all 500ms ease;
 }
@@ -4728,7 +4728,7 @@ select:focus {
 	transition-delay: 0.1s;
 }
 .header-contact-info-box ul li .title h4 a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .header-contact-info-box ul li .title p {
 	color: #8a8c93;
@@ -4858,7 +4858,7 @@ select:focus {
 	height: 10px;
 	border-bottom-left-radius: 8px;
 	border-bottom-right-radius: 8px;
-	background: #1990ce;
+	background: #9a45ff;
 	content: '';
 	transform: scaleY(0);
 	transform-origin: center;
@@ -4875,7 +4875,7 @@ select:focus {
 	display: block;
 	width: 110px;
 	height: 110px;
-	background: #1990ce;
+	background: #9a45ff;
 	border-radius: 50%;
 	margin: 0 auto;
 }
@@ -4926,7 +4926,7 @@ select:focus {
 	margin-bottom: 0;
 }
 .opening-hours-contact-box ul li p {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 14px;
 	line-height: 18px;
 	font-weight: 700;
@@ -5065,7 +5065,7 @@ select:focus {
 	font-weight: 900;
 }
 .slogan-content-style3 .title h2 span {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .slogan-content-style3 .btns-box {
 	position: relative;
@@ -5181,7 +5181,7 @@ select:focus {
 	width: 0px;
 	height: 10px;
 	border-radius: 10px;
-	background: #1990ce;
+	background: #9a45ff;
 	transition: all 2000ms ease 300ms;
 }
 .progress-levels
@@ -5211,7 +5211,7 @@ select:focus {
 	right: 0;
 	width: 43px;
 	height: 33px;
-	background: #1990ce;
+	background: #9a45ff;
 	content: '';
 	z-index: -1;
 	border-radius: 5px;
@@ -5226,7 +5226,7 @@ select:focus {
 	left: 0;
 	bottom: -20px;
 	content: '';
-	border-top: 10px solid #1990ce;
+	border-top: 10px solid #9a45ff;
 	border-right: 10px solid transparent;
 	border-bottom: 10px solid transparent;
 }
@@ -5341,7 +5341,7 @@ select:focus {
 	height: 10px;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
-	background: #1990ce;
+	background: #9a45ff;
 	content: '';
 	transform: scaleY(0);
 	transform-origin: center;
@@ -5370,7 +5370,7 @@ select:focus {
 	transition-delay: 0.1s;
 }
 .single-team-member .title-holder p {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 16px;
 	line-height: 20px;
 	font-weight: 500;
@@ -5414,7 +5414,7 @@ select:focus {
 }
 .team-social-links ul li a:hover {
 	color: #ffffff;
-	background: #1990ce;
+	background: #9a45ff;
 }
 
 /*** 
@@ -5637,7 +5637,7 @@ select:focus {
 	margin-right: 0;
 }
 .faq-title-box ul li span:before {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 65px;
 	line-height: 65px;
 }
@@ -5930,10 +5930,10 @@ select:focus {
 	transition-delay: 0.1s;
 }
 .breadcrumb-menu ul li a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .breadcrumb-menu ul li.active {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 .breadcrumb-area .title {
@@ -6169,7 +6169,7 @@ select:focus {
 	right: 0;
 	width: 100%;
 	height: 15px;
-	background: #1990ce;
+	background: #9a45ff;
 	content: '';
 	border-radius: 10px;
 }
@@ -6180,7 +6180,7 @@ select:focus {
 	margin-right: 0;
 }
 .welcome-content-box.style2 .inner-content h3 {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 22px;
 	line-height: 36px;
 	font-weight: 600;
@@ -6298,7 +6298,7 @@ select:focus {
 	bottom: 0;
 	width: 110px;
 	height: 110px;
-	background: #1990ce;
+	background: #9a45ff;
 	border-top-left-radius: 50px;
 	border-top-right-radius: 50px;
 	z-index: 1;
@@ -6395,7 +6395,7 @@ select:focus {
 	bottom: 0;
 	content: '\e920';
 	font-family: 'icomoon';
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 20px;
 }
 
@@ -6631,7 +6631,7 @@ select:focus {
 .sidebar-search-box form.search-form {
 	position: relative;
 	display: block;
-	background: #1990ce;
+	background: #9a45ff;
 	padding: 15px 20px;
 	width: 100%;
 	border-radius: 10px;
@@ -6644,7 +6644,7 @@ select:focus {
 	width: 100%;
 	height: 55px;
 	border-radius: 0px;
-	background: #1990ce;
+	background: #9a45ff;
 	border: 0px solid #e5e5e5;
 	color: #ffffff;
 	font-size: 16px;
@@ -6659,7 +6659,7 @@ select:focus {
 	right: 20px;
 	width: 55px;
 	height: 55px;
-	background: #1990ce;
+	background: #9a45ff;
 	color: #ffffff;
 	font-size: 16px;
 	line-height: 55px;
@@ -6896,7 +6896,7 @@ select:focus {
 }
 .single-sidebar .categories ul li:hover:after,
 .single-sidebar .categories ul li.active:after {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .single-sidebar .categories ul li:last-child {
 	margin-bottom: 0;
@@ -6945,7 +6945,7 @@ select:focus {
 	transition: all 0.4s ease-in-out 0.1s;
 }
 .single-sidebar .popular-tag li a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 /*** 
@@ -7143,7 +7143,7 @@ select:focus {
 	.text-holder
 	h3
 	span {
-	color: #1990ce;
+	color: #9a45ff;
 	font-size: 14px;
 	font-weight: 700;
 }
@@ -7280,7 +7280,7 @@ select:focus {
 	display: block;
 	width: 65px;
 	height: 65px;
-	background: #1990ce;
+	background: #9a45ff;
 	border-radius: 50%;
 	color: #ffffff;
 	font-size: 20px;
@@ -7329,7 +7329,7 @@ select:focus {
 	li
 	.text
 	a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .contact-p-contact-info-box
 	.inner-content
@@ -7676,18 +7676,18 @@ select:focus {
    Theme Color Css
 ===============================================*/
 .thm-clr {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .mobile-menu .navigation li.current > a,
 .mobile-menu .navigation li > a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .outer-search-box-style1 .seach-toggle:hover,
 .outer-search-box-style1 .seach-toggle.active {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .mobile-menu .navigation li > a:before {
-	border-left: 5px solid #1990ce;
+	border-left: 5px solid #9a45ff;
 }
 
 /*==============================================
@@ -7698,10 +7698,10 @@ select:focus {
 	color: #353742;
 }
 .main-menu .navigation > li > ul > li > a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .main-menu .navigation > li > ul > li:hover > a {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .main-menu
 	.navigation
@@ -7711,7 +7711,7 @@ select:focus {
 	> ul
 	> li
 	> a:hover {
-	color: #1990ce;
+	color: #9a45ff;
 }
 .sticky-header
 	.main-menu
@@ -7723,7 +7723,7 @@ select:focus {
 	.navigation
 	> li.current
 	> a {
-	color: #1990ce;
+	color: #9a45ff;
 }
 
 /*==============================================

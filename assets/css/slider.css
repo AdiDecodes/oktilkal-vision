@@ -1,0 +1,36 @@
+.slider {
+	overflow: hidden;
+	margin: 2rem 0 4rem 0;
+}
+
+.slide-track {
+	display: flex;
+	gap: 3rem;
+	animation: scroll 30s linear infinite;
+	width: calc(
+		200% - 10px
+	); /* Adjust the width to accommodate the duplicated images */
+}
+
+.imgSlide {
+	flex: 0 0 auto;
+	width: 200px;
+	height: 100px;
+	object-fit: contain;
+	margin-right: 10px;
+}
+
+@keyframes scroll {
+	0% {
+		transform: translateX(0);
+	}
+	50% {
+		transform: translateX(-50%);
+	}
+	50.01% {
+		transform: translateX(0);
+	}
+	100% {
+		transform: translateX(-50%);
+	}
+}
