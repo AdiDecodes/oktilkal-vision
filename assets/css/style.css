@@ -912,7 +912,8 @@ li {
 	background-color: #ffffff;
 	background-position: center center;
 	background-repeat: no-repeat;
-	background-image: url(../images/icon/preloader.gif);
+	background-image: url(../images/preloader.gif);
+	background-size: 100px;
 }
 .preloader.style-two {
 	background-image: url(../images/icon/preloader-1.gif);
